@@ -44,7 +44,7 @@ Exercise 1 - Prepare the solution
 7.  Enter **Question Type** for **Display Name** and select **Choice** for
     **Data Type**.
 
-8.  Click on the **Option Set** dropdown and click **+New Choice**.
+8.  Click on the **Choice** dropdown and click **+New Choice**.
 
 9.  Enter **Simple** and click **Add New Item**.
 
@@ -134,7 +134,7 @@ Exercise 2 – Create Business Rule
     Name**, select **Scenario Description** for **Field**, select **Business
     Required** for **Status** and click **Apply**.
 
-18. Drag **Set Visibility** action and place it on the **False** side (below) of
+18. Go to the componente tab and Drag **Set Visibility** action and place it on the **False** side (below) of
     the condition.
 
 19. Enter **Hide Scenario Description** for **Display Name**, select **Scenario
