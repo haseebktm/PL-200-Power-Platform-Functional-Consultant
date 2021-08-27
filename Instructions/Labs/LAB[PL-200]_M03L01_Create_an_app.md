@@ -170,7 +170,7 @@ the upcoming canvas app module.
 
 2.  Select **Solutions** and open **Common Data Services Default Solution**.
 
-3.  Click **New, App, Canvas App,** and then **Tablet Form Factor**.
+3.  Click **New, App, Canvas App,** and then **Tablet Form Factor** and give it a name
 
 4.  Click **Skip** if you see a prompt before the designer loads.
 
