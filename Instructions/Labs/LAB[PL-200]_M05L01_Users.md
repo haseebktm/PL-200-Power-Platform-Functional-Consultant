@@ -59,7 +59,7 @@ In this task, you create users and assign licenses to them.
 
 7.  Enter **UserOne** for **User Name**.
 
-8.  Click on the **Password**. This action will expand the password section.
+8.  Uncheck **Automatically create a password**. This action will expand the password section.
 
 9.  Select the **Let me Create the Password** radio button.
 
