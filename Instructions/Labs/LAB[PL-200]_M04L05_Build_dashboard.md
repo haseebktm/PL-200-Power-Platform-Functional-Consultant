@@ -124,7 +124,7 @@ module and added to the definition
 
 22. Click **Publish** to publish the application.
 
-23. Click **Save and Close** to close the close the app designer.
+23. Click **Save and Close** then again **Save and Close** to close the app designer.
 
 24. Click **Done**. Deselect the Knowledge Admin model-driven app.
 
