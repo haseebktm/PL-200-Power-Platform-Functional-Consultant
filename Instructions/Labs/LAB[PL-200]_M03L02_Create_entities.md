@@ -180,7 +180,7 @@ fields.
 15. Enter **Answer 1 Points** for **Display Name**, select **Whole Number** for
     **Data Type** and click **Done**.
 
-16. Add 3 more filed with values below. These will store the points awarded if
+16. Add 3 more fields with values below. These will store the points awarded if
     someone picks this answer.
 
     - Name **Answer 2 Points** Data Type **Whole Number**.
