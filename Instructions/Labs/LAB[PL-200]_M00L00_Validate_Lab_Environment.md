@@ -39,7 +39,7 @@ Exercise 1 – Acquire your Power Platform trial tenant
 
 	**Note:** Depending on your internet browser, you may be prompted to sign in again. Select **Sign in**, click the email account you just signed in with, and continue. You may also be prompted to provide more information. Enter 1234567890 in the Phone number field, and click **Get started**.
 
-7. Select **Yes** to stay signed in. On teh page that shows **You're all set**, click **Get started**.
+7. Select **Yes** to stay signed in. On the page that shows **You're all set**, click **Get started**.
 
 
 Exercise 2 - Create your environment 
